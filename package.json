@@ -1,0 +1,17 @@
+{
+  "name": "planning",
+  "version": "1.0.0",
+  "description": "Para este taller construiremos un API para llevar la gestión de nuestras tareas diarias, para eso deberás hacer lo siguiente:",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mariadb": "^3.2.2",
+    "nodemon": "^3.0.1"
+  }
+}
